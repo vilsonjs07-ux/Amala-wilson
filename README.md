@@ -59,7 +59,7 @@ Currently pursuing Python Full Stack Development and continuously improving my p
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com
+- 📧 Email: vilsonjs07@gmail.com
 - 💼 GitHub: https://github.com/your-github-username
 
 ---
