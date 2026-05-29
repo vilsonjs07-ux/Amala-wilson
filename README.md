@@ -60,15 +60,15 @@ Currently pursuing Python Full Stack Development and continuously improving my p
 
 ## 📫 Connect With Me
 - 📧 Email: vilsonjs07@gmail.com
-- 💼 GitHub: https://github.com/your-github-username
+- 💼 GitHub: https://github.com/vilsonjs07-ux
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilsonjs07-ux&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonjs07-ux&layout=compact&theme=tokyonight)
 
 ---
 
